@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "677df42371e0140c971f6638"
+  },
+  "name": "ưu đãi tháng 12",
+  "type": "GDv",
+  "value": 40000,
+  "createdAt": {
+    "$date": "2025-01-08T03:42:27.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T03:39:43.737Z"
+  },
+  "__v": 0,
+  "endDate": {
+    "$date": "2025-01-30T00:00:00.000Z"
+  },
+  "require": "3213213",
+  "startDate": {
+    "$date": "2025-01-10T00:00:00.000Z"
+  },
+  "status": "inactive"
+},
+{
+  "_id": {
+    "$oid": "6780846ac8c9617379cb489b"
+  },
+  "name": "vouche12",
+  "type": "freeShip",
+  "startDate": {
+    "$date": "2025-01-02T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-01-29T00:00:00.000Z"
+  },
+  "require": "200000",
+  "createdAt": {
+    "$date": "2025-01-10T02:22:34.746Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T03:39:43.766Z"
+  },
+  "__v": 0,
+  "status": "inactive"
+},
+{
+  "_id": {
+    "$oid": "67808ec46e9f689c03a7ce8e"
+  },
+  "name": "12313",
+  "type": "freeShip",
+  "startDate": {
+    "$date": "2025-01-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-01-24T00:00:00.000Z"
+  },
+  "require": "213123",
+  "status": "inactive",
+  "createdAt": {
+    "$date": "2025-01-10T03:06:44.726Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-10T03:06:44.839Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "67473a5705fef62030c3cabc"
+  },
+  "user": {
+    "$oid": "671f6a8f84cb7a0ffbdf0fa1"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "65fd777d207e1639f49dc26b"
+      },
+      "stock": 1,
+      "salePrice": 120000,
+      "_id": {
+        "$oid": "67473a5705fef62030c3cabd"
+      }
+    }
+  ],
+  "orderTotal": 120000,
+  "address": "ok",
+  "billing": "paypal",
+  "status": "shipping",
+  "description": "123",
+  "createdAt": {
+    "$date": "2024-11-27T15:27:19.442Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T03:40:10.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67320b11555701eba34ba1a0"
+  },
+  "user": {
+    "$oid": "6731fc6b555701eba34b9f46"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "65fd777d207e1639f49dc26b"
+      },
+      "stock": 2,
+      "salePrice": 120000,
+      "_id": {
+        "$oid": "67320b11555701eba34ba1a1"
+      }
+    }
+  ],
+  "orderTotal": 240000,
+  "address": "My Dinh, HN",
+  "billing": "cod",
+  "status": "final",
+  "description": "abc",
+  "createdAt": {
+    "$date": "2024-11-11T13:48:01.908Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-18T13:45:25.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67445a06cb76921b37334f98"
+  },
+  "user": {
+    "$oid": "671f6a8f84cb7a0ffbdf0fa1"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "65fd74fc207e1639f49dc226"
+      },
+      "stock": 2,
+      "salePrice": 120000,
+      "_id": {
+        "$oid": "67445a06cb76921b37334f99"
+      }
+    },
+    {
+      "product": {
+        "$oid": "670e6fc4fd485ceafdb61914"
+      },
+      "stock": 2,
+      "salePrice": 100000,
+      "_id": {
+        "$oid": "67445a06cb76921b37334f9a"
+      }
+    }
+  ],
+  "orderTotal": 440000,
+  "address": "My Dinh, HN",
+  "billing": "paypal",
+  "status": "finalcomplaint",
+  "description": "123",
+  "createdAt": {
+    "$date": "2024-11-25T11:05:42.374Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T14:40:14.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a97bd2ead81452a64054f6"
+  },
+  "user": {
+    "$oid": "6728bdc9678c76a04db54bf6"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "65fd777d207e1639f49dc26b"
+      },
+      "stock": 1,
+      "salePrice": 250000,
+      "_id": {
+        "$oid": "67a97bd2ead81452a64054f7"
+      }
+    }
+  ],
+  "orderTotal": 250000,
+  "address": "dwqdqdwqd",
+  "billing": "cod",
+  "status": "pending",
+  "description": "dưqdwqdwqdw",
+  "createdAt": {
+    "$date": "2025-02-10T04:08:50.375Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T04:08:50.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a97bd8ead81452a64054fd"
+  },
+  "user": {
+    "$oid": "6728bdc9678c76a04db54bf6"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "65fd777d207e1639f49dc26b"
+      },
+      "stock": 1,
+      "salePrice": 250000,
+      "_id": {
+        "$oid": "67a97bd8ead81452a64054fe"
+      }
+    }
+  ],
+  "orderTotal": 250000,
+  "address": "dwqdqdwqd",
+  "billing": "cod",
+  "status": "pending",
+  "description": "dưqdwqdwqdw",
+  "createdAt": {
+    "$date": "2025-02-10T04:08:56.763Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T04:08:56.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a97becead81452a640550a"
+  },
+  "user": {
+    "$oid": "6728bdc9678c76a04db54bf6"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "65fd777d207e1639f49dc26b"
+      },
+      "stock": 1,
+      "salePrice": 250000,
+      "_id": {
+        "$oid": "67a97becead81452a640550b"
+      }
+    }
+  ],
+  "orderTotal": 250000,
+  "address": "dwqdqdwqd",
+  "billing": "cod",
+  "status": "rejected",
+  "description": "dưqdwqdwqdw",
+  "createdAt": {
+    "$date": "2025-02-10T04:09:16.122Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T04:17:03.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a97c560c1869d04c89bb2b"
+  },
+  "user": {
+    "$oid": "6728bdc9678c76a04db54bf6"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "65fd777d207e1639f49dc26b"
+      },
+      "stock": 1,
+      "salePrice": 250000,
+      "_id": {
+        "$oid": "67a97c560c1869d04c89bb2c"
+      }
+    }
+  ],
+  "orderTotal": 250000,
+  "address": "dwqdqdwqd",
+  "billing": "cod",
+  "status": "final",
+  "description": "dưqdwqdwqdw",
+  "createdAt": {
+    "$date": "2025-02-10T04:11:02.530Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-10T04:12:57.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aca6cde933c089a54ef0a8"
+  },
+  "user": {
+    "$oid": "6728bdc9678c76a04db54bf6"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "65fd777d207e1639f49dc26b"
+      },
+      "stock": 1,
+      "salePrice": 250000,
+      "_id": {
+        "$oid": "67aca6cde933c089a54ef0a9"
+      }
+    }
+  ],
+  "orderTotal": 250000,
+  "address": "csaascascsacsa",
+  "billing": "cod",
+  "status": "final",
+  "description": "cacsac",
+  "createdAt": {
+    "$date": "2025-02-12T13:49:01.573Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T13:53:23.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67aca7ccb2f6f6bb2a20a65a"
+  },
+  "user": {
+    "$oid": "6728bdc9678c76a04db54bf6"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "67a978500a808c86c821f66d"
+      },
+      "stock": 1,
+      "salePrice": 250000,
+      "_id": {
+        "$oid": "67aca7ccb2f6f6bb2a20a65b"
+      }
+    }
+  ],
+  "orderTotal": 250000,
+  "address": "rtghhbgrdhtghtry",
+  "billing": "cod",
+  "status": "pending",
+  "description": "htrhtyhythjyhy",
+  "createdAt": {
+    "$date": "2025-02-12T13:53:16.420Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-12T13:53:16.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67b4a7dbfada0c39264c9e08"
+  },
+  "user": {
+    "$oid": "6728bdc9678c76a04db54bf6"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "67a978520a808c86c821f66e"
+      },
+      "stock": 1,
+      "salePrice": 250000,
+      "_id": {
+        "$oid": "67b4a7dbfada0c39264c9e09"
+      }
+    }
+  ],
+  "orderTotal": 250000,
+  "address": "dsdsd",
+  "billing": "cod",
+  "status": "pending",
+  "description": "sdsds",
+  "createdAt": {
+    "$date": "2025-02-18T15:31:39.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T15:31:39.181Z"
+  },
+  "__v": 0
+}]
